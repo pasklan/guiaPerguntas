@@ -1,0 +1,20 @@
+body {
+  background-color: gray;
+}
+
+.logo {
+  height: 5vh;
+  width: 10vh;
+  padding: 0%;
+}
+
+#form-question {
+  margin-top: 5vh;
+}
+.title {
+  color: aliceblue;
+}
+
+.titulo {
+  color: aliceblue;
+}
